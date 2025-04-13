@@ -134,7 +134,7 @@ Berdasarkan studi kasus, kebutuhan jaringan PT. Nusantara Network dianalisis seb
 | **15**| **Rabu**, [Pekan 15], 23:59 WIB | Finalisasi Dokumentasi & Presentasi                | Laporan Akhir, Video Demo, Slide Presentasi  | Cantika (Documentation)           |
 
 **5.  Sketsa Awal Desain Jaringan**
-![alt text](sketsaawal.jpg)
+![alt text](https://github.com/Rhadide/DMJK-Week-9-15-/blob/main/resources/Week9_Sketsa.jpg?raw=true)
 ## Komponen Utama
 
 ### Koneksi Internet
